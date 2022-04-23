@@ -7,7 +7,6 @@ INDEX VERSION 1.131+/Users/kohdai/Desktop/JavaDWC/.metadata/.plugins/org.eclipse
 3486417305.index
 1622510227.index
 3912268909.index
-3834228031.index
 2487795484.index
 2721956465.index
 2011777130.index
